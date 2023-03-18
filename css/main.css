@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+body{
+    /* background-color: darkkhaki; */
+    background-image:url("/image/background/1947431.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+   
+}
+
+.p {
+    color: white;
+
+}
+h1{
+    color: white;
+    text-shadow: 1px 1px 8px rgb(245, 245, 245);
+    text-align: center;
+    
+}
+p{
+    color: aliceblue;
+}
+div{
+    /* background-color: darkgray; */
+    background-color: #000000c2;
+    padding: 10px 10px 0 10px ;
+    text-align: center;
+    /* border-radius: 4px; */
+    font-family:"Pacifico";
+    
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3{
+    color: rgb(245, 245, 245);
+}
+ol{
+    color: rgb(245, 245, 245);
+}
+table{
+    color: white;
+    text-align: center;
+    
+}
+ul{
+    color: white;
+}
+.h{
+    background-color: azure;
+    background-size: cover;
+    color: blueviolet;
+    text-shadow: 2px 2px 8px rgb(245, 245, 245);
+    padding: 50px; 
+    border: 100px;
+    margin: 0 -8px -8px -8px;
+
+    
+}
+button{
+    width: 5rem;
+    height : 2rem;
+    background-color:rgb(236, 7, 7);
+    cursor: pointer;
+    border: black;
+    
+    
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+
+
+button:active{
+    background-color: rgb(245, 245, 245);
+}
+h5{
+    color: blanchedalmond;
+}
+
+
+.div4{
+
+
+    background-color:#faf2f2cc;
+    background-size:contain;
+    text-align: right;
+    padding: 10px;
+}
+ul{
+    text-align: center;
+}
+
